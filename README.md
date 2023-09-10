@@ -6,6 +6,7 @@ Instructions:
 - Then activate virtual env. with according to shell used:
 
   cmd.exe: .venv\Scripts\activate.bat
+
   PowerShell: .venv\Scripts\Activate.ps1
 
 - Lastly run: pip install -r requirements.txt
