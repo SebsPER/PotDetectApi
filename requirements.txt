@@ -19,3 +19,5 @@ tqdm==4.66.1
 seaborn==0.12.2
 psutil==5.9.5
 GitPython==3.1.36
+setuptools==68.2.2
+numpy==1.25.2
